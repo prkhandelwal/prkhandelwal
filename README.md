@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I’m an enthusiastic developer, always looking to explore beyond my domains. I’m passionate
+about .NET, IoT, Machine Learning & Cloud Computing!
+
 <!--
 **prkhandelwal/prkhandelwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
