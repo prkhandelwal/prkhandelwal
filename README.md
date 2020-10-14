@@ -3,6 +3,8 @@
 I’m an enthusiastic developer, always looking to explore beyond my domains. I’m passionate
 about .NET, IoT, Machine Learning & Cloud Computing!
 
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=prkhandelwal&show_icons=true_color=fff&icon_color=037AFE&text_color=000000&bg_color=ffffff)
+
 <!--
 **prkhandelwal/prkhandelwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
