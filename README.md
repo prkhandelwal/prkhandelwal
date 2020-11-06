@@ -3,6 +3,10 @@
 I’m an enthusiastic developer, always looking to explore beyond my domains. I’m passionate
 about .NET, IoT, Machine Learning & Cloud Computing!
 
+Creator of [Spotaverse](https://www.microsoft.com/store/productId/9P0SV62435TW) : A windows app to help you **stay on top** of your lyrics & music trivia which works with your favurite music players!
+
+Author of [Official .NET Core MongoDB Docs](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mongo-app?view=aspnetcore-3.1&tabs=visual-studio)
+
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=prkhandelwal&show_icons=true_color=fff&icon_color=037AFE&text_color=000000&bg_color=ffffff)
 
 <!--
