@@ -9,6 +9,8 @@ Author of [Official .NET Core MongoDB Docs](https://docs.microsoft.com/en-us/asp
 
 I also occassionaly write on [Medium](https://medium.com/@K2Prk)
 
+[The Unsung Janitor of PostgreSQL: A Dive into BTS of VACUUM](https://medium.com/@K2Prk/the-unsung-janitor-of-postgresql-a-dive-into-bts-of-vacuum-3fe1f53ddaec)
+
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=prkhandelwal&show_icons=true_color=fff&icon_color=037AFE&text_color=000000&bg_color=ffffff)
 
 <!--
