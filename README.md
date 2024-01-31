@@ -7,7 +7,7 @@ Creator of [Spotaverse](https://www.microsoft.com/store/productId/9P0SV62435TW) 
 
 Author of [Official .NET Core MongoDB Docs](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mongo-app?view=aspnetcore-3.1&tabs=visual-studio)
 
-I also occassionaly write on [Medium](https://medium.com/@K2Prk)
+I also occassionaly write on [Medium](https://medium.com/@prkhandelwal)
 
 [The Unsung Janitor of PostgreSQL: A Dive into BTS of VACUUM](https://medium.com/@K2Prk/the-unsung-janitor-of-postgresql-a-dive-into-bts-of-vacuum-3fe1f53ddaec)
 
